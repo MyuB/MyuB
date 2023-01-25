@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/IEGEC-64BC4B?style=flat&logo=GitBook&logoColor=FFFFFF"/>
 </p>
 
-### Personal Info
+### Personal
 <p>
 <a href="https://www.instagram.com/leejay_98/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>

@@ -1,8 +1,8 @@
 # Greetings to Fellow Visitors 👋
 
-<h1>:computer: This is Minjae Lee. </h1>
+# 이민재(Jay, Lee)
 <p>
-:school: Currently majoring Computer Science Engineering <br />
+:computer: Currently majoring Computer Science Engineering <br />
 :oncoming_automobile: Currently doing Hyundai Softeer Bootcamp <br />
 :green_book: Currently working as Undergraduate Researcher at Frontier School, INHA University <br />
 :musical_note: Loves Music, playing Bass Guitar, Flute and Managing Sound System at Incheon 2nd Presbyterian Church <br />
@@ -35,6 +35,13 @@
 <a href="malito:mjycoco01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mjycoco01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 </a>
+</p>
+
+### Languages
+<p>
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg">
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg">
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg">
 </p>
 
 <!--

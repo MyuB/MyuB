@@ -1,4 +1,4 @@
-# Greetings to Fellow Visitors 👋
+# Hi there! 👋
 
 # 이민재(Jay, Lee)
 <p>
